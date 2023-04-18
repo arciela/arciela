@@ -1,70 +1,50 @@
 ### Hi there 👋
 
-**Mobile Application Development:**
+**Development (Mobile, Web, and Backend):**
 - Android
 - Ionic
-
-**Container Orchestration & Deployment:**
-- Helm
-- Kubernetes
-- OpenShift
-- Docker
-
-**Continuous Integration & Deployment (CI/CD):**
-- Jenkins
-- GitHub (version control and CI/CD with GitHub Actions)
-
-**Web Testing & Automation:**
-- Playwright
-- Selenium
-- Karma
-
-**Build Tools & Task Runners:**
-- Make
-- Gradle
-- Maven
-
-**Cloud Platforms:**
-- AWS (Amazon Web Services)
-
-**Scripting & Shell:**
-- Bash
-
-**Programming Languages:**
-- Java
-- TypeScript (TS)
-
-**Web Technologies & Frameworks:**
 - CSS
 - SASS
 - Angular
 - Spring
 - Node.js
+- Java
+- TypeScript (TS)
 
-**Version Control:**
+**Containers, Deployment, CI/CD & Version Control:**
+- Helm
+- Kubernetes
+- OpenShift
+- Docker
+- Jenkins
+- GitHub (version control and CI/CD with GitHub Actions)
 - Git
 
-**Integrated Development Environments (IDEs):**
-- Android Studio
-- IntelliJ IDEA (IDEA)
-- Visual Studio Code (VSCode)
+**Testing, Automation, and Build Tools:**
+- Playwright
+- Selenium
+- Karma
+- Make
+- Gradle
+- Maven
 
-**Monitoring & Analytics:**
+**Cloud, Infrastructure & Monitoring:**
+- AWS (Amazon Web Services)
+- Bash
+- Raspberry Pi (hardware platform)
+- Nginx
 - Grafana
 
-**Databases:**
+**Databases & Messaging:**
 - MySQL
 - PostgreSQL (Postgres)
 - SQLite
-
-**Messaging Systems:**
 - Kafka
 
-**Web Servers:**
-- Nginx
-
-**Tools & Miscellaneous:**
-- Raspberry Pi (hardware platform)
+**IDEs & Tools:**
+- Android Studio
+- IntelliJ IDEA (IDEA)
+- Visual Studio Code (VSCode)
 - Regular Expressions (Regex)
 - Stack Overflow (online Q&A community)
 - Postman (API development and testing tool)
