@@ -1,18 +1,71 @@
 ### Hi there 👋
 
-<!--
-**arciela/arciela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Mobile Application Development:**
+- Android
+- Ionic
 
-Here are some ideas to get you started:
+**Container Orchestration & Deployment:**
+- Helm
+- Kubernetes
+- OpenShift
+- Docker
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Continuous Integration & Deployment (CI/CD):**
+- Jenkins
+- GitHub (version control and CI/CD with GitHub Actions)
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+**Web Testing & Automation:**
+- Playwright
+- Selenium
+- Karma
+
+**Build Tools & Task Runners:**
+- Make
+- Gradle
+- Maven
+
+**Cloud Platforms:**
+- AWS (Amazon Web Services)
+
+**Scripting & Shell:**
+- Bash
+
+**Programming Languages:**
+- Java
+- TypeScript (TS)
+
+**Web Technologies & Frameworks:**
+- CSS
+- SASS
+- Angular
+- Spring
+- Node.js
+
+**Version Control:**
+- Git
+
+**Integrated Development Environments (IDEs):**
+- Android Studio
+- IntelliJ IDEA (IDEA)
+- Visual Studio Code (VSCode)
+
+**Monitoring & Analytics:**
+- Grafana
+
+**Databases:**
+- MySQL
+- PostgreSQL (Postgres)
+- SQLite
+
+**Messaging Systems:**
+- Kafka
+
+**Web Servers:**
+- Nginx
+
+**Tools & Miscellaneous:**
+- Raspberry Pi (hardware platform)
+- Regular Expressions (Regex)
+- Stack Overflow (online Q&A community)
+- Postman (API development and testing tool)
+- Markdown (MD, lightweight markup language)
